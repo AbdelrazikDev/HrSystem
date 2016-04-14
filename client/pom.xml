@@ -155,15 +155,4 @@
         </repository>
     </repositories>
 
-    <developers>
-        <developer>
-            <name>Robert Leggett</name>
-            <roles>
-                <role>Solution Architect</role>
-                <role>Technical Team Lead</role>
-                <role>Senior Developer</role>
-            </roles>
-            <url>http://robertleggett.wordpress.com/</url>
-        </developer>
-    </developers>
-</project>
+   </project>
